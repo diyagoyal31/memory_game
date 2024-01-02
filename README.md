@@ -9,7 +9,7 @@ This implementation brings the classic Memory Puzzle Game to life using Python's
 ## How to Play
 
 1. **Launch the Game:**
-   - Run the Python script (`MemoryPuzzleGame.py`) to start the game.
+   - Run the Python script (`memory_game.py`) to start the game.
 
 2. **Game Interface:**
    - A grid of buttons will appear, each representing a tile in the memory puzzle.
