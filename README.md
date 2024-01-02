@@ -27,7 +27,7 @@ This implementation brings the classic Memory Puzzle Game to life using Python's
    - Upon winning, a congratulatory message is displayed.
 
 6. **Customization:**
-   - Adjust the number of rows and columns in the `MemoryPuzzleGame` instantiation for a customized experience.
+   - Adjust the number of rows and columns in the `memory_game instantiation for a customized experience.
 
 ## Implementation Details
 
@@ -55,7 +55,7 @@ This implementation brings the classic Memory Puzzle Game to life using Python's
    - Ensure you have Python installed on your system.
 
 2. **Launch the Game:**
-   - Run the provided Python script (`MemoryPuzzleGame.py`).
+   - Run the provided Python script (`memory_game.py`).
    - The game window will appear, and you can start playing!
 
 ## Contribution
